@@ -1,0 +1,6 @@
+[submodule ".github/workflows/submodule"]
+	path = .github/workflows/submodule
+	url = https://github.com/saudeon/github-workflows.git
+[submodule ".github/actions/submodule"]
+	path = .github/actions/submodule
+	url = https://github.com/saudeon/github-actions.git
